@@ -1,2 +1,2 @@
 # Dairy-Management-System
-Aims at automating the primitive method of Dairy management.
+Aims at automating the manual method of Dairy management.
